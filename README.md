@@ -17,35 +17,32 @@ Tool allows admin to view the details of all the active encounters of hospital w
 associated branch. And admin can also access all the invoices generated for each encounter and all 
 financial transactions made in each branch.
 
-Technologies and tools used:
+📎 Technologies and tools used:
 
-📎 Java 8
+• Java 8
+• MySQL
+• Spring Boot
+• Spring Data JPA
+• Eclipse, Maven, MVC
+• Hibernate with JPA
+• JPQL
+• Postman
+• Git
+• Lombok
+• Swagger
 
-📎 MySQL
+📎Responsibilities:
 
-📎 Spring Boot
-
-📎 Spring Data JPA
-
-📎 Eclipse, Maven, MVC
-
-📎 Hibernate with JPA
-
-📎 JPQL
-
-📎 Postman
-
-📎 Git
-
-📎 Lombok
-
-📎 Swagger
-Responsibilities:
- Worked on writing Business Logic Layer including Response Structure, Exception
+• Worked on writing Business Logic Layer including Response Structure, Exception
 Handling and Swagger Documentation.
- Creating the entities of the software according to the Entity-Relational diagrams.
- Coordination with team lead and development team for designing the business logic layer.
- Written Unit Testing using J-Unit.
- Was part of the team for interaction with Client to demo the software.
- Coordinated with the team and prepared Business Logic Layer and Entity-Relational
+
+• Creating the entities of the software according to the Entity-Relational diagrams.
+
+• Coordination with team lead and development team for designing the business logic layer.
+
+• Written Unit Testing using J-Unit.
+
+• Was part of the team for interaction with Client to demo the software.
+
+• Coordinated with the team and prepared Business Logic Layer and Entity-Relational
 diagrams.
