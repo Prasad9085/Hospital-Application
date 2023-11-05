@@ -18,17 +18,28 @@ associated branch. And admin can also access all the invoices generated for each
 financial transactions made in each branch.
 
 Technologies and tools used:
-· Java 8
-· MySQL
-· Spring Boot
-· Spring Data JPA
-· Eclipse, Maven, MVC
-· Hibernate with JPA
-· JPQL
-· Postman
-· Git
-· Lombok
-· Swagger
+
+📎 Java 8
+
+📎 MySQL
+
+📎 Spring Boot
+
+📎 Spring Data JPA
+
+📎 Eclipse, Maven, MVC
+
+📎 Hibernate with JPA
+
+📎 JPQL
+
+📎 Postman
+
+📎 Git
+
+📎 Lombok
+
+📎 Swagger
 Responsibilities:
  Worked on writing Business Logic Layer including Response Structure, Exception
 Handling and Swagger Documentation.
