@@ -4,6 +4,7 @@ Project Details:
 Title Of Project: Hospital Application (Power chart)
 
 Description:
+
 The tool is designed for hospitals, physicians and nurse, to documents both the clinical conditions 
 they diagnose as well as the services and items delivered to beneficiaries to treat on their conditions. 
 This helps to manage the inpatients and their medications prescribed in the registered encounter. On 
