@@ -46,3 +46,30 @@ Handling and Swagger Documentation.
 
 • Coordinated with the team and prepared Business Logic Layer and Entity-Relational
 diagrams.
+
+📎 Software Development Skills
+
+• Good experience in developing Restful web services.
+
+• Experience in Spring5.0 (Core, MVC and Boot)
+
+• Good Knowledge and Skillsets in all the technologies of Java EE namely JDBC, Servlets &
+JSP.
+
+• Strong in OOPS concepts, Collection, Exception Handling and Multithreading.
+
+• Proficient in using Hibernate Framework with JPA for data persistence.
+
+• Experience in data base concepts JOINS, sub queries using MY-SQL.
+
+• Good Experience in DDL, DML, TCL.
+
+• Experience ofSQLto validate data.
+
+• Understanding of Businessrequirements, Software requirements.
+
+• Experience in working with Agile environment
+
+• Good Exposure of SDLC
+
+• Excellent product implementation skills.
